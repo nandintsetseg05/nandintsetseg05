@@ -5,51 +5,23 @@
 
 ---
 
-## About Me
-I’m a **Computer Science student at QUT** with a strong interest in **full-stack development and AI-assisted software engineering**.
 
-I’m currently building my technical foundation through **hands-on projects**, learning how frontend, backend, databases, and deployment work together in real applications. I’m especially interested in creating practical, scalable solutions and preparing for **IT / Software Engineering internships**.
-
----
-
-## What I’m Learning & Practicing
-- Full-stack web development (end-to-end)
-- Backend logic & system structure
-- Writing clean, readable, maintainable code
-- AI-assisted development & automation
-- Version control and real project workflows
+### About
+I’m a Computer Science student focused on **full-stack development and AI-assisted tools**.  
+I enjoy building practical projects like **web apps, Chrome extensions, and small AI tools**, and I’m preparing for **IT / CS internships in Brisbane**.
 
 ---
 
-## Tech Stack
-- **Languages:** JavaScript, Python  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js, Express  
-- **Databases:** AWS, Firebase, Cloud  
-- **Tools:** Git, GitHub, Vercel, Notion  
-- **AI:** OpenAI APIs, AI-assisted coding
+### Tech
+**JavaScript, TypeScript, React, Node.js, HTML, CSS, Git**  
+Chrome Extensions • REST APIs • Vercel • basic Python
 
 ---
 
-## Projects
-- 🌐 **Full-Stack Web Applications**  
-  Authentication, CRUD operations, APIs, deployment  
-
-- 📱 **No-Code / Low-Code Apps**  
-  Rapid prototypes and internal tools  
-
-- 🤖 **AI Projects**  
-  AI-powered features, automation, and experiments  
-
-(Projects are actively being developed 🚧)
-
----
-
-## Current Focus
-- Building complete projects from scratch  
-- Strengthening backend & architecture understanding  
-- Improving consistency and problem-solving skills  
-- Preparing for **internship and junior developer roles**
+### Projects
+- 🗺️ Google Maps scraping **Chrome extension**  
+- 🤖 AI chatbot experiments (user context)  
+- 🌐 Portfolio: https://nana-nandintsetseg.com  
 
 ---
 
